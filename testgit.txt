@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+Version 6.0 :
 Version -> 4.0 (on garde)
-=======
-Sur la branche3 : 
+Sur la branche3 :
 Enfin la version 3.3 que l'on garde
->>>>>>> branche3
+
