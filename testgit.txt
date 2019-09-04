@@ -1,3 +1,2 @@
 Sur la branche3 : 
-La version 3.1 évolue.
-Version 3.2
+Enfin la version 3.3 que l'on garde
